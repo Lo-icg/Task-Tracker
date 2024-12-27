@@ -23,4 +23,6 @@ task-cli list todo
 task-cli list in-progress
 ```
 ### Clone the repo
+```
 git clone https://github.com/Lo-icg/Task-Tracker.git
+```
